@@ -1,0 +1,20 @@
+{
+    "LOGIN" : {
+        "email" : "#email",
+        "password" : "#password",
+        "submitBtn" : ".btn-custom"
+    },
+
+    "CREATENEW" : {
+        "createGallery" : ".nav-link nav-buttons",
+        "title" : "#title",
+        "description" : "#description",
+        "url" : ".form-control",
+        "submit" : ".form-control",
+        "created" : ".cell",
+        "alert" : ".alert-danger",
+        "deleteImg" : ".fa-trash",
+        "deleteGallery" : ".btn-custom",
+        "titleEdit" : ".title-style"
+    }
+}
