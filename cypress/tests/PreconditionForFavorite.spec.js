@@ -188,7 +188,7 @@ describe('This is a scipt for uploading media to one user', () =>{
                 cy.wait(1000)
             }
 
-            for ( var i = 0; i < 2; i++ ){
+            for ( var i = 0; i < 4; i++ ){
 
                 var name2 = reqConditions.makeid(15)
                 reqConditions.newStorePhoto(name2, 1)
